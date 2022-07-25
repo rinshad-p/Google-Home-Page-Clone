@@ -1,0 +1,189 @@
+body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.header{
+    width: 100%;
+    height: 40px;
+}
+
+.free-part{
+    height: 40px;
+    width: 75%;
+    float: left;
+
+}
+.link-part{
+    height: 40px;
+    width: 25%;
+    float: left;
+    font-size: 13px;
+}
+#sign_in_Button{
+    color: #fff;
+    background: #1a73e8;
+    height: 36px;
+    width: 96px;
+    border-radius: 4px;
+    position: absolute;
+    left: 1422px;
+    top: 12px;
+    border: #fff;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    text-align: center
+
+}
+.top-link{
+    text-decoration: none;
+    color: #444;
+    padding-left: 20px;
+
+}
+#gmail-link{
+    text-decoration: none;
+    color: #444;
+    position: absolute;
+    top: 23px;
+    left: 1259px;
+  }
+
+#images-link{
+    text-decoration: none;
+    color: #444;
+    position: absolute;
+    left: 1308px;
+    top: 23px;
+    
+}
+
+#apps-logo{
+    height: 21px;
+    width: 22px;
+    margin-left: 10px;
+    position: absolute;
+    left: 1369px;
+    top: 18px;
+}
+
+.main-logo{
+    position: fixed;
+    top: 19%;
+left: 630px;
+}
+#searchBar{
+    width: 560px;
+    position: relative;
+    top: 219px;
+    left: 477px;
+    height: 41px;
+    border-radius: 56px;
+    border-style: solid;
+    border-color: #f4f0f0;
+  }
+
+
+#voice_icon{
+    position: relative;
+    top: 222px;
+    left: 434px;
+}
+
+#search_icon{
+    height: 17px;
+    position: relative;
+    top: 223px;
+    left: -97px;
+}
+
+.lastButton button{
+    height: 36px;
+    position: relative;
+    top: 244px;
+    left: 612px;
+    width: 135px;
+    border: 0;
+    border-radius: 4px;
+    text-align: center;
+    background-color: #f8f9fa;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    cursor: pointer;
+    margin-left: 10px;
+
+}
+
+#languages a{
+    text-decoration: none;
+    padding: 0 3px;
+    color: #1a0dab;
+    opacity: initial;
+}
+
+#languages{
+    text-align: center;
+    margin-top: 272.5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: #4d5156;
+
+}
+
+.footer{
+    background-color: #f2f2f2;
+    color: #70757a;
+    font-family: arial, sans-serif;
+    font: arial;
+
+}
+
+#location{
+    width: 100%;
+    height: 46px;
+    margin-top: 222px;
+    box-sizing: border-box;
+    font-size: 15px;
+    border-bottom: 1px solid #dadce0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+
+}
+
+.menus{
+    width: 100%;
+    height: 50px;
+}
+.menu1{
+    width: 80%;
+    height: 40px;
+    margin-top: 2px;
+    float: left;
+
+}
+.menu1 a{
+    text-decoration: none;
+    color: #70757a;
+    padding: 15px;
+    font-size: 14px;
+    position: relative;
+    left: 22px;
+    top: 15px;
+}
+
+.menu2{
+    width: 20%;
+    height: 40px;
+    float: left;
+}
+.menu2 a{
+    text-decoration: none;
+    color: #70757a;
+    padding: 12px;
+    font-size: 14px;
+    position: relative;
+    left: 66px;
+    top: 16px;
+}
